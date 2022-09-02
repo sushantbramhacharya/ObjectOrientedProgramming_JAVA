@@ -12,6 +12,6 @@ class MedthodsClass {
     String name = "Sushant";
 
     void displayName() {
-        System.out.println("My id is " + a + " and Names is " + name);
+        System.out.println("My id is " + this.a + " and Names is " + this.name);
     }
 }
