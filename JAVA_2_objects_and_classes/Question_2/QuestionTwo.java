@@ -2,7 +2,8 @@ package Question_2;
 
 public class QuestionTwo {
     public static void main(String[] args) {
-        
+        EmployeesTax em = new EmployeesTax(10000);
+        System.out.println("The tax is " + em.calculateTax());
     }
 }
 
