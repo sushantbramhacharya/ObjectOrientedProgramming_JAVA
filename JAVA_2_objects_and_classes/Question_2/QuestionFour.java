@@ -2,7 +2,7 @@ package Question_2;
 
 public class QuestionFour {
     public static void main(String[] args) {
-        HCFLCM hcflcm = new HCFLCM(12, 18);
+        new HCFLCM(12, 18);
 
     }
 }
