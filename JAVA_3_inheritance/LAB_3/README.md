@@ -1,4 +1,4 @@
 # Lab 3: Inheritance
 - Create a class called Cricketer with member variables to represent name, age and no_of_matches_played. From this class derive two classes Bowler and Batsman. Bowler class has no_of_wickets as member variable and Batsman clss has no_of_runs and centuries as member variables.Use appropriate member functions in all classes to read and display respective data.
-- WAp to store the infromation of a store. Derive the class from it to stroe the information of music. Also derive a next class from the base to store the infor of a book. Your output should display the name and address of store, nme and company name of music and name of book and authors.
+- WAp to store the infromation of a store. Derive the class from it to store the information of music. Also derive a next class from the base to store the infor of a book. Your output should display the name and address of store, name and company name of music and name of book and authors.
 -WAP that will inherit two base classes Enter Penuer and Leader to create a derived class Minister, Both of the base classes have same function members.
